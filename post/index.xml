@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on AIssistant</title>
+    <link>https://Aissistants.github.io/post/</link>
+    <description>Recent content in Post on AIssistant</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jul 2023 04:43:36 +0800</lastBuildDate><atom:link href="https://Aissistants.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AIssistant Documentation</title>
+      <link>https://Aissistants.github.io/post/start/</link>
+      <pubDate>Fri, 21 Jul 2023 04:51:55 +0800</pubDate>
+      
+      <guid>https://Aissistants.github.io/post/start/</guid>
+      <description>1. Setup Your API Key 2. Start Chat 3. View Your Chat Detail 4. Add Prompt to Your Library </description>
+    </item>
+    
+  </channel>
+</rss>
