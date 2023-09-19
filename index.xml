@@ -6,7 +6,19 @@
     <description>Recent content on AIssistant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Sep 2023 07:01:40 +0800</lastBuildDate><atom:link href="https://Aissistants.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 12:42:28 +0800</lastBuildDate><atom:link href="https://Aissistants.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shared Shortcuts</title>
+      <link>https://Aissistants.github.io/post/shared-shortcuts/</link>
+      <pubDate>Tue, 19 Sep 2023 12:42:28 +0800</pubDate>
+      
+      <guid>https://Aissistants.github.io/post/shared-shortcuts/</guid>
+      <description>Chat https://www.icloud.com/shortcuts/10995bc6b71d406795ed35e524e20063
+Create a Prompt https://www.icloud.com/shortcuts/87f0fbfb0f514521a66f53552d2d1e32
+Combined with Alfred. Download AIssistants Workflow
+Create a new WorkFlow Add a shortcut automation action Add a trigger to this action How to use this workflow In any app, select your question and enter ctrl + cmd, then wait the response. This workflow will replace your question with the answer. </description>
+    </item>
+    
     <item>
       <title>How to use the shortcut action provided by AIssistant</title>
       <link>https://Aissistants.github.io/post/shortcut/</link>

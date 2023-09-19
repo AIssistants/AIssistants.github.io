@@ -757,7 +757,7 @@ aside h3 {
 }
 
 .post p, .post h1, .post h2, .post h3, .post h4, .post h5, .post h6, .post blockquote, .post ol, .post ul {
-  max-width: 840px !important;
+  max-width: 608px !important;
   margin-left: auto;
   margin-right: auto;
 }
@@ -808,7 +808,6 @@ aside h3 {
   width: 200px;
   max-width: 100%;
 }
-
 
 .post_inner a {
   color: var(--theme);
@@ -1343,6 +1342,27 @@ pre {
 
 .w {
   color: #666;
+}
+
+.post_body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+post div {
+  max-width: 608;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+post div p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 /*# sourceMappingURL=styles.css.map */
